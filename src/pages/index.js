@@ -3,7 +3,7 @@ import { List, Icon, Tag, Skeleton } from 'antd';
 import Link from 'umi/link';
 import { connect } from 'dva';
 import moment from 'moment';
-import Markdown from '@/components/markdown';
+import Markdown from '../components/markdown';
 import Archive from '@/components/archive';
 import styles from './index.less';
 import { filterIssue } from '@/models/home';

@@ -1,6 +1,6 @@
 import ReactMarkdown from 'react-markdown';
-import CodeBlock from '@/components/markdown/codeBlock';
-import HeadingBlock from '@/components/markdown/headingBlock';
+import CodeBlock from './codeBlock';
+import HeadingBlock from './headingBlock';
 import 'github-markdown-css';
 import './index.less';
 
